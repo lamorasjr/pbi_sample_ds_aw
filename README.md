@@ -1,3 +1,7 @@
 # Power BI Sample dataset - Adventure Works Cycle
 
-Dataset downloaded from Udemy Course: Microsoft Power BI Desktop for Business Intelligence - Maven Analytics (Jan-2023)
+Description: Dataset downloaded from Udemy Course: Microsoft Power BI Desktop for Business Intelligence - Maven Analytics (Jan-2023)
+Type: Multiple files 
+File type: csv.
+Author: Maven Analytics
+Link: https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
